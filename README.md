@@ -20,7 +20,7 @@ Poetry is used for dependency management. Follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/data_sweeper_app.git
+   git clone https://github.com/muzaffar401/Data_Sweeper_App.git
    cd data_sweeper_app
    ```
 
